@@ -21,6 +21,11 @@ My All Website URL 's
 
 All Website Source Code Is On My [Github profile](https://github.com/RishbroProMax)
 
+## Hosting Platform
+
+### [Vercel](https://vercel.com/signup/)
+### 
+
 ## Credits
 
 ### Rishmika Sandanu `RishBroProMax`
